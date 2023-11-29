@@ -22,7 +22,6 @@ public class ProductEntity {
 	private double price;
 	
 	
-
 	public ProductEntity() {
 		super();
 	}
